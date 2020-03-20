@@ -1,4 +1,6 @@
-Homework for the PC course, used by [acs-interface][] to run student
-submissions.
+Tema 1 - Metode Numerice 2020
+-----------------------------
+
+Se foloseste [acs-interface] pentru a rula sursele studentilor.
 
 [acs-interface]: https://github.com/vmck/acs-interface
