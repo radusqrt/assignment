@@ -1,4 +1,4 @@
-Tema 1 - Metode Numerice 2020
+Teme - Metode Numerice 2020
 -----------------------------
 
 Se foloseste [acs-interface] pentru a rula sursele studentilor.
